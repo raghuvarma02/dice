@@ -22,4 +22,4 @@ function diceroll(){
     document.querySelector(".container h1").textContent=" tie , refresh once more";
 }
 
-window.addEventListener('load', diceroll);
+window.addEventListener('loadstart', diceroll);
