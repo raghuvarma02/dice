@@ -1,0 +1,45 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin-right: 30px;
+  align-items: center;
+}
+
+body {
+  background-color: #27374D;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Poppins', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 40px;
+  color:#DDE6ED;
+  font-weight: 600;
+}
+
+p {
+  font-size: 1rem;
+  color: #9DB2BF;
+  font-family: 'Poppins', sans-serif;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+footer {
+  margin: 15% 0%;
+  color: #9DB2BF;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-style: italic;
+}
